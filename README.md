@@ -29,3 +29,5 @@ Next $q$ lines contains $k_i$ $(1\le k_i\le n)$ --- cell queried in the $i_{th}$
 Print $q$ lines.
 
 For each question output a single integer --- the shortest length of a harmonic segment containing cell $k_i$, or $-1$ if no such segment exists.
+### Polygon
+https://polygon.codeforces.com/p7jqMZZ/harshitt22/capybara-burrows
